@@ -4,6 +4,11 @@
 
 ---
 
+## 🖼️ Coding Image
+![coding](https://images.unsplash.com/photo-1518770660439-4636190af475)
+
+---
+
 ## 🙋‍♀️ About Me
 안녕하세요! 저는 김민정이고, 25학번 AISW계열 학생입니다.  
 AI와 소프트웨어에 관심이 많아 다양한 기술을 배우고 있습니다.  
@@ -32,7 +37,8 @@ AI와 소프트웨어에 관심이 많아 다양한 기술을 배우고 있습�
 ---
 
 ## 📫 Contact
-- ✉️ Email: KMJUNG0440@NAVER.COM
+- ✉️ Email: (여기에 이메일 입력)
+- 📝 Blog: (있으면 입력)
 
 ---
 
