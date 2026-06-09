@@ -37,8 +37,7 @@ AI와 소프트웨어에 관심이 많아 다양한 기술을 배우고 있습�
 ---
 
 ## 📫 Contact
-- ✉️ Email: (여기에 이메일 입력)
-- 📝 Blog: (있으면 입력)
+- ✉️ Email: kmjung0440@naver.com
 
 ---
 
